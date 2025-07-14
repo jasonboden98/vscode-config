@@ -1,0 +1,19 @@
+{
+    "workbench.startupEditor": "none",
+    "editor.minimap.enabled": false,
+    "editor.fontSize": 18,
+    "window.restoreWindows": "folders",
+    "workbench.iconTheme": "monospace-icons",
+    "editor.fontWeight": "bold",
+    "editor.snippetSuggestions": "top",
+"workbench.tree.indent": 16,
+"editor.detectIndentation": false,
+"workbench.colorTheme": "Monokai",
+"editor.cursorStyle": "block",
+"breadcrumbs.enabled": false,
+"workbench.editor.showTabs": "single",
+"workbench.activityBar.location": "hidden",
+"window.commandCenter": false,
+"terminal.integrated.defaultProfile.osx": "JavaScript Debug Terminal",
+"liveServer.settings.donotShowInfoMsg": true
+}
