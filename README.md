@@ -1,2 +1,2 @@
 # vscode-config
-settings.json file for my vscode
+My custom settings.json config along with css file for editor styling
